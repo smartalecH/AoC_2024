@@ -6,6 +6,7 @@ fn main() {
 
     match day.as_str() {
         "1" => days::day01::run(input),
+        "2" => days::day02::run(input),
         // Add more days as needed
         _ => println!("Invalid day"),
     }
