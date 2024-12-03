@@ -3,3 +3,4 @@ name = "AoC_2024"
 version = "0.1.0"
 edition = "2021"
 [dependencies]
+regex = "1"
